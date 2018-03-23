@@ -5,4 +5,4 @@ Allows to output MxN plots with unified axes and with nice legend on top of colu
 Uses numpy and matplotlib.
 
 To run:
-python3 multiplot.py
+$ python3 multiplot.py
