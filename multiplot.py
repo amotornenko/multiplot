@@ -96,5 +96,6 @@ plt.subplots_adjust(hspace=.0,wspace=.0)
 #plt.title(r'${\bf Header}$', y=5, x=-1.5)
 #export plot to pdf
 plt.savefig('multiplot.pdf', format='PDF', bbox_inches='tight')
+plt.savefig('multiplot.png', format='PNG', bbox_inches='tight')
 
 plt.show()
